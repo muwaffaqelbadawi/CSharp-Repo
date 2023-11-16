@@ -1,0 +1,45 @@
+D:\dotnet\bin\Debug\net6.0\dotnet.exe
+D:\dotnet\bin\Debug\net6.0\dotnet.deps.json
+D:\dotnet\bin\Debug\net6.0\dotnet.runtimeconfig.json
+D:\dotnet\bin\Debug\net6.0\dotnet.dll
+D:\dotnet\bin\Debug\net6.0\dotnet.pdb
+D:\dotnet\obj\Debug\net6.0\dotnet.csproj.AssemblyReference.cache
+D:\dotnet\obj\Debug\net6.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfoInputs.cache
+D:\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfo.cs
+D:\dotnet\obj\Debug\net6.0\dotnet.csproj.CoreCompileInputs.cache
+D:\dotnet\obj\Debug\net6.0\dotnet.dll
+D:\dotnet\obj\Debug\net6.0\refint\dotnet.dll
+D:\dotnet\obj\Debug\net6.0\dotnet.pdb
+D:\dotnet\obj\Debug\net6.0\dotnet.genruntimeconfig.cache
+D:\dotnet\obj\Debug\net6.0\ref\dotnet.dll
+D:\C#\dotnet\bin\Debug\net6.0\dotnet.exe
+D:\C#\dotnet\bin\Debug\net6.0\dotnet.deps.json
+D:\C#\dotnet\bin\Debug\net6.0\dotnet.runtimeconfig.json
+D:\C#\dotnet\bin\Debug\net6.0\dotnet.dll
+D:\C#\dotnet\bin\Debug\net6.0\dotnet.pdb
+D:\C#\dotnet\obj\Debug\net6.0\dotnet.csproj.AssemblyReference.cache
+D:\C#\dotnet\obj\Debug\net6.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfoInputs.cache
+D:\C#\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfo.cs
+D:\C#\dotnet\obj\Debug\net6.0\dotnet.csproj.CoreCompileInputs.cache
+D:\C#\dotnet\obj\Debug\net6.0\dotnet.dll
+D:\C#\dotnet\obj\Debug\net6.0\refint\dotnet.dll
+D:\C#\dotnet\obj\Debug\net6.0\dotnet.pdb
+D:\C#\dotnet\obj\Debug\net6.0\dotnet.genruntimeconfig.cache
+D:\C#\dotnet\obj\Debug\net6.0\ref\dotnet.dll
+D:\little projects\C#\dotnet\obj\Debug\net6.0\dotnet.csproj.AssemblyReference.cache
+D:\little projects\C#\dotnet\obj\Debug\net6.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\little projects\C#\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfoInputs.cache
+D:\little projects\C#\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfo.cs
+D:\little projects\C#\dotnet\obj\Debug\net6.0\dotnet.csproj.CoreCompileInputs.cache
+D:\little projects\C#\dotnet\obj\Debug\net6.0\dotnet.dll
+D:\little projects\C#\dotnet\obj\Debug\net6.0\refint\dotnet.dll
+D:\little projects\C#\dotnet\obj\Debug\net6.0\dotnet.pdb
+d:\little projects\C#\dotnet\bin\Debug\net6.0\dotnet.exe
+d:\little projects\C#\dotnet\bin\Debug\net6.0\dotnet.deps.json
+d:\little projects\C#\dotnet\bin\Debug\net6.0\dotnet.runtimeconfig.json
+d:\little projects\C#\dotnet\bin\Debug\net6.0\dotnet.dll
+d:\little projects\C#\dotnet\bin\Debug\net6.0\dotnet.pdb
+d:\little projects\C#\dotnet\obj\Debug\net6.0\dotnet.genruntimeconfig.cache
+d:\little projects\C#\dotnet\obj\Debug\net6.0\ref\dotnet.dll
